@@ -5,4 +5,9 @@ how ru
 i miss u amma
 love u amma
 nanna em dng amma
+<<<<<<< HEAD
 hello all
+=======
+changing the path
+hello my family
+>>>>>>> branch1
